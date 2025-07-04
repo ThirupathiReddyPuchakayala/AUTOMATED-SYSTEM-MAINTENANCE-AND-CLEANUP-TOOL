@@ -44,8 +44,9 @@ A Python-based desktop utility that automates routine system cleanup tasks—lik
 ```bash
    pip install psutil plyer schedule
 Run the Tool
-```bash
+```
    python main.py
+
 Make sure to set up your Gmail app password for sending emails (due to 2FA).
 
 ## 🧾Configuration
