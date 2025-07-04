@@ -1,7 +1,6 @@
 # AUTOMATED-SYSTEM-MAINTENANCE-AND-CLEANUP-TOOL
 
 A Python-based desktop utility that automates routine system cleanup tasks—like deleting temporary files, empty folders, and recycle bin contents—while ensuring **data safety** through whitelist protection and **email-based confirmation**.
-
 ---
 
 ## 🚀 Features
@@ -43,9 +42,8 @@ A Python-based desktop utility that automates routine system cleanup tasks—lik
 
 ```bash
    pip install psutil plyer schedule
-Run the Tool
+python main.py
 ```
-   python main.py
 
 Make sure to set up your Gmail app password for sending emails (due to 2FA).
 
@@ -78,11 +76,12 @@ P. Akshitha
 R. Ramana
 V. Nikitha
 
-Guided by Mr. E. Satish Babu, Assistant Professor, Dept. of CSE, Jyothishmathi Institute of Technology and Science
+## Guided by 
+Mr. E. Satish Babu, Assistant Professor, Dept. of CSE, Jyothishmathi Institute of Technology and Science
 
-📄 License
+## 📄 License
 This project is for academic demonstration purposes.
 For reuse or adaptation, please contact the authors.
 
-🔗 References
+## 🔗 References
 See the full project report for detailed literature review, architecture, testing, and results.
